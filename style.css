@@ -1,0 +1,21 @@
+.nav-link{
+    color: rgb(250, 242, 242) !important;
+    
+    
+    margin:  0 20px;
+}
+
+.navbar-brand{
+    color: white !important;
+}
+
+h5{
+    margin-top: -280px !important;
+    color: yellow !important;
+    font-size: 40px !important;
+}
+
+h2{
+    text-align: center;
+    margin-top: 40px ;
+}
